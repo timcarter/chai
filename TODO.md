@@ -20,5 +20,5 @@
 	* Might be confused with the page number.
 
 ## Algorithm
-	* O(n)|n=length of the statement: run through the entire citation and try to identify individual statements.
-	* Create modules for each component of the citation and try to find those by regular expression (or something else).
+* O(n)|n=length of the statement: run through the entire citation and try to identify individual statements.
+* Create modules for each component of the citation and try to find those by regular expression (or something else).
